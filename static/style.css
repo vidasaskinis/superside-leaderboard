@@ -443,7 +443,7 @@ form#settings input[type="checkbox"] ~ span {
   color: #ffff66;
 }
 .leaderboard-entry {
-  white-space: pre;
+  /* white-space: pre; */
 }
 .leaderboard-entry .leaderboard-totalscore {
   color: #ffffff;
